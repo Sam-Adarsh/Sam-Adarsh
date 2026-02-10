@@ -65,4 +65,4 @@ Each repository is documented with clear objectives and reproducible workflows.
 
 ---
 
-⭐ *Always learning, always building — one system at a time.*
+⭐ *Build first. Learn faster.*
