@@ -19,11 +19,11 @@ AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analy
 ### Machine Learning & Generative AI
 - Supervised & Unsupervised Learning  
 - Feature Engineering & Model Evaluation  
-- **Generative AI**: LLM fundamentals, prompt engineering, embeddings, RAG (learning & projects)  
+- Generative AI: LLM fundamentals, prompt engineering, embeddings, RAG (learning & projects)  
 - NLP pipelines, text preprocessing, transformer architectures  
 
 ### Programming & Tools
-- **Python**, SQL  
+- Python, SQL  
 - Pandas, NumPy, Scikit-learn  
 - PyTorch, Hugging Face ecosystem  
 - Git & GitHub  
@@ -37,11 +37,11 @@ AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analy
 
 ## 📈 Finance & Trading Experience
 
-- Exposure to **Equity & F&O markets**
+- Exposure to Equity & F&O markets
 - Client onboarding, KYC, and regulatory compliance
 - Trade-performance analysis and portfolio monitoring
 - Risk assessment, position sizing, and market structure study
-- Exploring **systematic, data-backed trading models**
+- Exploring systematic, data-backed trading models
 
 ---
 
@@ -58,7 +58,7 @@ AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analy
 
 This profile includes projects related to:
 - Machine Learning & Data Analysis  
-- **Generative AI & NLP systems**  
+- Generative AI & NLP systems  
 - Financial analytics & market research  
 
 Each repository is documented with clear objectives and reproducible workflows.
