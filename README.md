@@ -45,24 +45,4 @@ AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analy
 
 ---
 
-## 🚀 Current Focus
-
-- Building **end-to-end Generative AI & ML projects**
-- Understanding **LLM internals, deployment, and evaluation**
-- Applying AI to **financial analytics and decision systems**
-- Preparing for **AI / ML / GenAI-focused roles**
-
----
-
-## 📂 Featured Work
-
-This profile includes projects related to:
-- Machine Learning & Data Analysis  
-- Generative AI & NLP systems  
-- Financial analytics & market research  
-
-Each repository is documented with clear objectives and reproducible workflows.
-
----
-
 ⭐ *Build first. Learn faster.*
