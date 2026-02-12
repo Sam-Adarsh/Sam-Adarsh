@@ -8,13 +8,11 @@ AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analy
 
 ---
 
-## 👨‍💻 About Me
-
-- B.Tech in **Artificial Intelligence & Data Science (2024)**
-- Associate Trader & **NISM-registered Authorised Person at Angel One**
-- Focused on building **data-driven, AI-powered systems** with real-world impact
-- Strong interest in **Generative AI, Machine Learning, and intelligent automation**
-- Experience bridging **technology, analytics, and financial decision-making**
+🔭 Currently exploring Generative AI, LLM internals, and real-world ML system design.  
+📊 Background in trading (Equity & F&O) — I like thinking in probabilities and risk.  
+🌱 Learning more about transformers, RAG pipelines, and model deployment.  
+⚙️ Building small but meaningful projects instead of collecting buzzwords.  
+📈 Interested in AI + finance + automation — where logic meets uncertainty.  
 
 ---
 
