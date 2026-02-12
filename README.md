@@ -1,5 +1,7 @@
 # Hi, I'm Adarsh
+
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge)](https://sam-adarsh.github.io/samadarsh-portfolio)
+
 AI & Data Science graduate exploring the space where Generative AI, intelligent systems, and financial markets intersect.
 
 ---
