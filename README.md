@@ -6,7 +6,9 @@ AI & Data Science graduate working at the intersection of Generative AI, intelli
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sam-Adarsh&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sam-Adarsh&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
