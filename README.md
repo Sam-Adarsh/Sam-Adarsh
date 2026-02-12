@@ -1,6 +1,6 @@
 # Hi, I'm Adarsh 👋
 
-AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analytics
+AI & Data Science graduate exploring the space where Generative AI, intelligent systems, and financial markets intersect.
 
 ---
 
@@ -8,11 +8,20 @@ AI & Data Science graduate | Generative AI & ML Systems | Trading & Market Analy
 
 ---
 
-🔭 Currently exploring Generative AI, LLM internals, and real-world ML system design.  
-📊 Background in trading (Equity & F&O) — I like thinking in probabilities and risk.  
-🌱 Learning more about transformers, RAG pipelines, and model deployment.  
-⚙️ Building small but meaningful projects instead of collecting buzzwords.  
-📈 Interested in AI + finance + automation — where logic meets uncertainty.
+🔭 Currently diving deeper into Generative AI, LLM internals, and production-ready ML systems.  
+📊 With a background in trading (Equity & F&O), I approach problems through probability, risk, and structured decision-making.  
+🌱 Exploring transformers, RAG pipelines, model evaluation, and deployment workflows.  
+⚙️ Focused on building practical, end-to-end projects — not just experimenting in notebooks.  
+📈 Especially interested in applying AI to finance, analytics, and automation.
+
+---
+
+### What you’ll find here
+
+- Machine Learning & GenAI experiments  
+- Structured, reproducible AI projects  
+- Financial analytics & system-driven thinking  
+- Continuous iteration and public learning  
 
 ---
 
