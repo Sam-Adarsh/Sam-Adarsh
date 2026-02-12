@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Website-111111?style=for-the-badge)](https://sam-adarsh.github.io/samadarsh-portfolio)
 
-AI & Data Science graduate working at the intersection of Generative AI, intelligent systems, and financial markets.
+AI & Data Science grad exploring Generative AI, intelligent systems, and financial markets.
 
 ---
 
