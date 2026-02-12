@@ -1,4 +1,4 @@
-# Hi, I'm Adarsh 👋
+# Hi, I'm Adarsh
 
 AI & Data Science graduate exploring the space where Generative AI, intelligent systems, and financial markets intersect.
 
