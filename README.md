@@ -14,6 +14,8 @@ AI & Data Science grad exploring Generative AI, intelligent systems, and financi
   </a>
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sam-Adarsh&theme=github)
+
 ---
 
 🔭 Currently going deeper into Generative AI, LLM internals, and production-ready ML systems.  
